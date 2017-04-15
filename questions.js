@@ -23,7 +23,7 @@ exports.questions = [
     },
 
     { full: 'The earliest evidence of feline domestication is from 9,500 years ago.',
-      close: '9,500'
+      cloze: '9,500'
 
     },
     

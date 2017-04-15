@@ -2,7 +2,7 @@
 var inquirer = require('inquirer');
 
 // Import the flash cards constructor implementations
-var flashCards = require('./flashCards.js');
+var flashCards = require('./cards.js');
 // Import the full list of questions
 var questions = require('./questions.js').questions;
 
